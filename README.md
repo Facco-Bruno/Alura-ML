@@ -1,4 +1,2 @@
-# Alura
-Repository to the Notebooks created in the courses on the Alura Plataform
-
-Courses focus in ML, Python, BI and Data Science
+# Alura-ML
+Repository to the Notebooks created in the ML courses from Alura Plataform 
